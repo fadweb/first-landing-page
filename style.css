@@ -153,3 +153,7 @@ button{
     border-radius: 5px;
     padding: 0 10px;
 }
+
+.cta-text{
+    color:#e5e7eb;
+}
